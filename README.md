@@ -53,7 +53,3 @@ Use cursor keys to rotate the view, shift and cursor keys to pan, ctrl and up do
 Click on a point to mark it and output it's 3d coordiantes.
 Click on a second point to output the distance from the first point.
 
-
-# License
-
-The MIT License.
