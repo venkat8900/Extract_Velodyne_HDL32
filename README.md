@@ -1,8 +1,7 @@
 Code taken from https://github.com/esrlabs/velodyne
 
-# Velodyne Lidar Python Library
-
-This code currently supports model HDL 64E S2 only.
+Code is currently under testing for velodyne HDL32. 
+Trying to extract point cloud data and visualize the packets. 
 
 
 # Prerequisites
