@@ -1,3 +1,5 @@
+Code taken from https://github.com/esrlabs/velodyne
+
 # Velodyne Lidar Python Library
 
 This code currently supports model HDL 64E S2 only.
